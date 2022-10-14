@@ -18,8 +18,13 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    img {
-        width: 150px;
+    h2 {
+      color: $black;
+      font-weight: 500;
+      span{
+          color: rgb(101, 90, 252);
+
+      }
     }
 }
 
