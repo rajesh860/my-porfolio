@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'antd/dist/antd.min.css' //ANTD
 
 // Pages
-import { About, Header, Footer, Testimonial, Work, Skills } from "./container"
+import { About, Header, Footer, Work, Skills } from "./container"
 import { Navbar } from "./components"
 
 
@@ -19,7 +19,6 @@ const App = () => {
       <About />
       <Work />
       <Skills />
-      {/* <Testimonial /> */}
       <Footer />
     </div>
   )
