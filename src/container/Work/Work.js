@@ -16,15 +16,15 @@ const Work = () => {
     },
     {
       imgUrl: images.agency,
-      title: "Agency",
-      description: "Converted XD file into HTML.",
-      ProjectLink: "",
-      codeLink: "",
+      title: "Countdowm",
+      description: "",
+      ProjectLink: "https://t-countdown.netlify.app/",
+      codeLink: "https://github.com/rajesh860/countdown",
     },
     {
       imgUrl: images.study_center,
-      title: "Study Center",
-      description: "Made for students to study.",
+      title: "Approach",
+      description: "Coming Soon",
       ProjectLink: "",
       codeLink: "https://github.com/rajesh860/my-app-counter"
     },

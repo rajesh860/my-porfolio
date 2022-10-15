@@ -17,16 +17,13 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
-
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
-
 import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
-
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
 import asus from '../assets/asus.png';
@@ -39,7 +36,7 @@ import calculator from "../assets/tip calculator.jpg"
 import toddler from "../assets/toddler.jpg"
 import CRUD from "../assets/CRUD.jpg"
 import auth_crud from "../assets/auth_crud.jpg"
-import study_center from "../assets/study_center.png"
+import study_center from "../assets/study_center.jpg"
 import github from "../assets/github.svg"
 import javascriptCircle from "../assets/js-circle.svg"
 import apiIcon from "../assets/apiIcon.svg"
