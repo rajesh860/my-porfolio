@@ -26,7 +26,7 @@ const Work = () => {
       title: "Approach",
       description: "Coming Soon",
       ProjectLink: "",
-      codeLink: "https://github.com/rajesh860/my-app-counter"
+      codeLink: "https://github.com/rajesh860/Approach"
     },
   ]
   return (
