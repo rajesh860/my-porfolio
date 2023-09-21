@@ -11,7 +11,7 @@ const Work = () => {
       imgUrl: images.crypto,
       title: "Will-Crypto",
       description: "Integrate Rapid API in Project.",
-      ProjectLink: "",
+      ProjectLink: "https://crypto-verse-d.netlify.app/",
       codeLink: "",
     },
     {
